@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AllMiniCodingProjects.iml" filepath="$PROJECT_DIR$/.idea/AllMiniCodingProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Coffee_Machine/.idea/Coffee_Machine.iml" filepath="$PROJECT_DIR$/../Coffee_Machine/.idea/Coffee_Machine.iml" />
-    </modules>
-  </component>
-</project>
